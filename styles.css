@@ -1,0 +1,92 @@
+body {
+  text-align: center;
+  background-color: #0c535e;
+  background-image: url(images/beats.jpeg);
+}
+
+h1 {
+  font-size: 5.8em;
+  color: #c7c2df;
+  font-family: "Arvo", cursive;
+  text-shadow: 3px 0 #DA0463;
+
+}
+
+footer {
+  color: #DBEDF3;
+  font-family: sans-serif;
+}
+
+.w {
+ background-image:url("images/tom1.png"); }
+
+.a{
+  background-image:url("images/tom3.png"); }
+
+
+
+.s {
+  background-image:url("images/crash.png"); }
+
+
+
+.d {
+  background-image:url("images/tom2.png"); }
+
+
+
+.j { background-image:url("images/tom4.png"); }
+
+
+
+
+.k {
+  background-image:url("images/snare.png"); }
+
+
+
+.l {
+  background-image:url("images/kick.png"); }
+
+
+
+.set {
+  margin: 10% auto;
+}
+
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
+
+.pressed {
+  box-shadow: 4px 3px 4px 5px #DBEDF3;
+  opacity: 7.9;
+}
+
+.red {
+  color: red;
+}
+
+.drum {
+  outline: none;
+  border: 10px solid #3d75e3;
+  font-size: 5rem;
+  font-family: 'Arvo', cursive;
+  line-height: 2;
+  font-weight: 900;
+  color: #b422a0;
+  text-shadow: 3px 0 #414547;
+  border-radius: 20px;
+  display: inline-flex;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+  background-color: white;
+}
+footer{
+  color: rgb(193, 182, 36);
+  font-weight: bolder;
+  padding-bottom: 55px;
+}
